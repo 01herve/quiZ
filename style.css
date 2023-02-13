@@ -1,0 +1,19 @@
+*{margin: 0;padding: 0;}
+body{background-color: #cbd7fc;align-items: center; height: 100vh;width: 100vw;margin: 50px;}
+.flex{display: flex; flex-direction: column;}
+.bg-color{background-color: #fff;}
+
+.divQuiz{height: 7rem;width: 40rem;border-radius: 20px;padding: 50px;}
+.divp{padding-bottom: 15px;}
+.marge{margin: 30px;}
+.mrgauto{margin: 0 auto;}
+.wd{width: 27rem}
+.valid{text-align: center;padding: 2rem 5rem;font-size: 30px;border-radius: 10px;border: none;}
+.para{font-size: 15px; text-align: center;}
+.parap1{font-size: 23px;}
+.avant{height: 7rem;width: 40rem;border-radius: 20px;padding: 50px; margin: 30px;justify-content: center}
+.active{display: none;}
+
+
+
+
